@@ -17,7 +17,7 @@ Time spent: **2** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifyu.com/image/STxQY' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='https://gifs.com/gif/dice-roll-app-jYPVqy' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 
 
