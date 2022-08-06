@@ -3,7 +3,7 @@
 
 ## ESHMEETA SINGH
 
-##ROLL THE DICE TO GET YOUR LUCK NUMBER!!
+ROLL THE DICE TO GET YOUR LUCKY NUMBER!!
 
 Time spent: **2** hours spent in total
 
