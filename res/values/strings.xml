@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">diceRoll app</string>
+    <string name="rock_n_roll">ROCK N ROLL</string>
+    <string name="roll">ROLL!</string>
+</resources>
